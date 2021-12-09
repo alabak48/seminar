@@ -1,8 +1,7 @@
 body{
- background-color: rgb(221, 130, 25);
-}
+ background-image: linear-gradient(rgb(25, 221, 188), rgb(63, 63, 56));}
 
-.h2 {
-    color: darkblue;
+.h1 {
+    text-align: center;
 }
 
