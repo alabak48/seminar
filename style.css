@@ -1,4 +1,6 @@
 body{
- background-image: linear-gradient(rgb(255, 255, 255), rgb(230, 168, 221));}
+ background-image: linear-gradient(to bottom right, blue, pink);
+}
+
 
 
