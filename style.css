@@ -1,5 +1,5 @@
 body{
- linear-gradient(to bottom left, cyan 50%, palegoldenrod 50%);
+ background-color: linear-gradient(45deg, red, blue); 
 }
 
 
