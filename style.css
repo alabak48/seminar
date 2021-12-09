@@ -1,6 +1,15 @@
 body{
+<<<<<<< HEAD
  background-color: linear-gradient(45deg, red, blue); 
 }
 
 
+=======
+ background-color: rgb(221, 130, 25);
+}
+
+.h2 {
+    color: darkblue;
+}
+>>>>>>> 2c94aac (Promijenila sam boju pozadine i slova. Promijenila sam upozorenje. Promijenila sam listu.)
 
